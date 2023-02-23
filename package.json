@@ -49,6 +49,11 @@
         "path": "./themes/gruvbox-material-dark.json"
       },
       {
+        "label": "spalmurray's Gruvbox Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-material-spalmurray.json"
+      },
+      {
         "label": "Gruvbox Material Light",
         "uiTheme": "vs",
         "path": "./themes/gruvbox-material-light.json"
